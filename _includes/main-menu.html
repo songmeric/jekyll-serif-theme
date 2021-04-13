@@ -1,6 +1,6 @@
-<center><div id="main-menu" class="main-menu">
+<div id="main-menu" class="main-menu">
   {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
-  <ul>
+  <ul style="text-align: center">
     {% for item in mainmenu %}
     <li class="{% if item.url == page.url %}active{% endif %}">
       <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
@@ -9,4 +9,4 @@
   </ul>
   
 </div>
-</center>
+
