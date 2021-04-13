@@ -1,4 +1,4 @@
-<div id="main-menu" class="main-menu"><center>
+<center><div id="main-menu" class="main-menu">
   {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
   <ul>
     {% for item in mainmenu %}
@@ -7,5 +7,6 @@
     </li>
     {% endfor %}
   </ul>
-  </center>
+  
 </div>
+</center>
