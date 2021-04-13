@@ -2,7 +2,6 @@
 title: "Ph.D 1"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/1.jpg"
 jobtitle: "University of Michigan"
 promoted: true
 weight: 1
