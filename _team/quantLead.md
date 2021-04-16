@@ -8,5 +8,5 @@ weight: 1
 layout: team
 ---
 
-- Was awarded BSc. Mathematics First Class Honors at Trinity College, Cambridge.
+- Was awarded BSc. Mathematics at Trinity College, Cambridge.
 - 10+ years of experience in teaching IB / A Levels / University Mathematics
