@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "무료 상담",
+    "description": "카카오톡 문의로 자세한 무료상담 가능하십니다.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "인증된 국내 최고의 강사진",
+    "description": "IB Engineering과 함께하시는 모든 강사분들은 고등연구경험이 있는 석/박사학위 취득자이거나, QS 기준 세계 10위권 대학교 출신이십니다.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "데이터가 말하는 전문성",
+    "description": "20+개의 IA/EE들을 컨설팅 하였으며, 모두 7점/A Predict받는 완전무결 전적을 기록하고 있습니다.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
