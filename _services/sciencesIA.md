@@ -1,5 +1,5 @@
 ---
-title: "IA - IB Physics(HL/SL)"
+title: "IA - Sciences(P/C/B/CS)"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 2
