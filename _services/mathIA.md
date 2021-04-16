@@ -7,10 +7,7 @@ category: internalass
 layout: service
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+IB 수학 IA의 채점기준은 크게 두가지로 분류됩니다. Mathematical level, and Communications. Communications는 주로  
 
 - Nata perque
 - Et ferrugine laedam
