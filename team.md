@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified Doctoral engineers and scientists are readily available for your consultation.
+Meet our team of qualified Doctoral engineers and scientists are readily available for your consultation.
