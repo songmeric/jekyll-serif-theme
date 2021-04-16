@@ -1,5 +1,5 @@
 ---
-title: "IA - Sciences (Physics/Chem/Bio/CompSci)"
+title: "IA - Sciences (Physics/Chem/Bio/CS)"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 2
