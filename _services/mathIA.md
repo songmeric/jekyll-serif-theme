@@ -3,6 +3,7 @@ title: "IA - IB Mathematics(HL/SL)"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
+category: internalass
 layout: service
 ---
 
