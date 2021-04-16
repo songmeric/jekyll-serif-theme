@@ -1,5 +1,5 @@
 ---
-title: "Internal Assessment - IB Physics(HL/SL)"
+title: "IA - IB Physics(HL/SL)"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 2
