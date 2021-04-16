@@ -1,17 +1,17 @@
 [
   {
-    "title": "무료 상담",
-    "description": "카카오톡 문의로 자세한 무료상담 가능하십니다.",
+    "title": "Free Consultation",
+    "description": "IB Engineering은 24시간 카카오톡 무료 상담 서비스를 제공합니다.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "인증된 국내 최고의 강사진",
-    "description": "IB Engineering과 함께하시는 모든 강사분들은 고등연구경험이 있는 석/박사학위 취득자이거나, QS 기준 세계 10위권 대학교 출신이십니다.",
+    "title": "World Class IB-Engineers",
+    "description": "IB Engineering과 함께하시는 모든 강사분들은 실패를 염두에 두지 않습니다.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
     "title": "데이터가 말하는 전문성",
-    "description": "20+개의 IA/EE들을 컨설팅 하였으며, 모두 7점/A Predict받는 완전무결 전적을 기록하고 있습니다.",
+    "description": "20+개의 IA/EE들을 컨설팅 하였으며, 현재까지 전부 만점이라는 완벽한 전적을 기록하고 있습니다.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
