@@ -3,7 +3,7 @@ title: "Economics Lead"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 jobtitle: "London School of Economics"
-weight: 7
+weight: 4
 promoted: true
 layout: team
 ---
