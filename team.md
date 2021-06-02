@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-IB Engineering의 베테랑 강사진입니다.
+IB Engineering의 베테랑 .
