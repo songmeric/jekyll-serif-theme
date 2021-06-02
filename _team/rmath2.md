@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 jobtitle: "Seoul National University"
 promoted: true
-weight: 3
+weight: 2
 layout: team
 ---
 
