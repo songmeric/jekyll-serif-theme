@@ -9,5 +9,5 @@ layout: team
 ---
 
 * Was awarded with BSc in Mathematical Sciences at Seoul National University
-* Currently pursuing master's degree in Mathematical Physics
+* Currently pursuing master's degree in Mathematical Physics at Seoul National University.
 
