@@ -1,11 +1,11 @@
 main:
-  - name: "Team"
+  - name: "강사진 소개"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "학원 소개"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "오시는 길"
     url: "/contact/"
     weight: 5
 
