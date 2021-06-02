@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Meet our team of qualified Doctoral engineers and scientists are readily available for your consultation.
+IB Engineering의 베테랑 강사진입니다.
