@@ -7,9 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# 내신부터 파이널 IA/EE까지
-# 처음부터 끝까지 책임지는 IB Engineering입니다.
+# IB 이과전문
+# IB Engineering
 
-Cambridge, Imperial College, 서울대학교 출신 초호화 강사진.<br />
-자체 개발 online 강의 및 스케줄 관리 시스템으로 <br />
-가격은 Down, 퀄리티는 Up. 
+
