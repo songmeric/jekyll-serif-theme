@@ -7,7 +7,9 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# 30%의 가격으로
-# 300%의 성적을. 
+# 내신부터 파이널 IA/EE까지
+# 처음부터 끝까지 책임지는 IB Engineering입니다.
 
-아이가 정확히 필요로 하는 내용이 무엇일까요? <br /> 불어나만 가는 학원비, 이젠 더이상 두고 볼 수 없습니다. <br /> 이제껏 단 한번도 볼 수 없었던 가격에 <br />  초특급 강사진이 모두 모였습니다. 
+Cambridge, Imperial College, 서울대학교 출신 초호화 강사진.<br />
+자체 개발 online 강의 및 스케줄 관리 시스템으로 <br />
+가격은 Down, 퀄리티는 Up. 
